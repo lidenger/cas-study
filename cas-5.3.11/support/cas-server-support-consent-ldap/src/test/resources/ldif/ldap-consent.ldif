@@ -1,0 +1,17 @@
+dn: cn=consentTest,ou=people,dc=example,dc=org
+objectClass: organizationalRole
+objectClass: person
+objectClass: account
+cn: ConsentTest
+userPassword: 123456
+sn: ConsentTest
+uid: ConsentTest
+
+dn: cn=consentTest2,ou=people,dc=example,dc=org
+objectClass: organizationalRole
+objectClass: person
+objectClass: account
+cn: ConsentTest2
+userPassword: 123456
+sn: ConsentTest2
+uid: ConsentTest2
